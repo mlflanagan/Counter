@@ -21,7 +21,7 @@
 
     <TextView
         android:id="@+id/counterTextView"
-        style="@style/AppTheme.CounterStyle"
+        style="@style/AppTheme.CounterButtonStyle"
         app:layout_constraintBottom_toTopOf="@+id/guideline2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,7 +29,7 @@
 
     <TextView
         android:id="@+id/resetTextView"
-        style="@style/AppTheme.ResetStyle"
+        style="@style/AppTheme.ResetButtonStyle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
