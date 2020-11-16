@@ -4,8 +4,8 @@
  *
  * Changes:
  * 2020-11-11 mlf: added day/night mode handling
- * 2020-11-12 mlf: moved formatting and dark mode support to to styles.xml
- *                 ensured support for older versions of Android
+ * 2020-11-12 mlf: 1) moved formatting and dark mode support to to styles.xml
+ *                 2) ensured support for older versions of Android
  */
 
 package com.example.myapplication;
