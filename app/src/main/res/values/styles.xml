@@ -23,8 +23,8 @@
         <item name="android:paddingBottom">5dp</item>
         <item name="android:paddingLeft">20dp</item>
         <item name="android:paddingRight">20dp</item>
-        <item name="android:background">@drawable/border</item>
-        <item name="android:textColor">#dd0000</item>
+        <item name="android:background">@drawable/reset_button_border</item>
+        <item name="android:textColor">@color/white</item>
         <item name="android:textSize">36sp</item>
         <item name="android:text">@string/reset</item>
     </style>
